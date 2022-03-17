@@ -3,9 +3,13 @@
 Clone this repo, run `npm install` and start the project using `npm run dev`.
 The instructions for completing the task can be found in the site that will launch.
 
+# Note
+
+> I have not focused on beautifying it or mobile design approach. I Focused more on completing the exercises mentioned and less on design.
+
 # Tests
 
-I have added one simple unit test for one component so that you can have an insight about it. It uses **jest** and **@vue/cli-plugin-unit-jest**
+> I have added one simple unit test for one component so that you can have an insight about it. It uses **jest** and **@vue/cli-plugin-unit-jest**
 
 To run:
 
